@@ -1,0 +1,27 @@
+{
+  "name": "videoapicloudjs",
+  "version": "1.0.0",
+  "homepage": "http://videoapi.cloud",
+  "description": "NodeJS Module to encode videos with VideoAPI.cloud",
+  "main": "videoapicloud.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/videoapicloud/videoapicloudjs.git"
+  },
+  "engines": {
+    "node": ">=0.8"
+  },
+  "keywords": [
+    "video",
+    "encoding",
+    "cloud",
+    "transcoding",
+    "videoapicloud",
+    "h264"
+  ],
+  "author": "Chrysostomos Nanakos",
+  "license": "MIT",
+  "devDependencies": {
+    "nodeunit": "^0.11.3"
+  }
+}
