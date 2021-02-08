@@ -1,6 +1,6 @@
 {
   "name": "videoapicloudjs",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "homepage": "http://videoapi.cloud",
   "description": "NodeJS Module to encode videos with VideoAPI.cloud",
   "main": "videoapicloud.js",

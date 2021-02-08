@@ -9,7 +9,7 @@ var USER_AGENT = 'VideoAPIcloud/1.1.0 (NodeJS)';
 module.exports = {
 
   submit: function(configContent, apiKey, callback) {
-    VideAPIcloudURL = url.parse(process.env.VIDEOAPICLOUD_URL || 'https://api.videoapi.cloud');
+    VideoAPIcloudURL = url.parse(process.env.VIDEOAPICLOUD_URL || 'https://api.videoapi.cloud');
 
     if(!apiKey) {
       apiKey = process.env.VIDEOAPICLOUD_API_KEY;
